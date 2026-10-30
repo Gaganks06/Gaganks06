@@ -8,18 +8,20 @@ Electronics and Communication Engineering graduate with a background in Python p
 
 ## 👨‍💻 About Me
 
-- 🎓 BE in Electronics and Communication Engineering – 2025.
-- 💼 Data Science Intern at AI Variant, Bengaluru.
-- 💻 Interested in Software Engineering and Technical Support.
-- 🐍 Working with Python, SQL and Machine Learning.
-- 🔧 Interested in troubleshooting, debugging and application support.
-- 🌱 Continuously developing skills in AWS, Cloud Computing and Data Engineering.
-- 🤝 Open to professional opportunities and collaboration.
+- 🎓 BE Graduate in Electronics and Communication Engineering (2025).
+- 💼 Former Data Science Intern at AI Variant, Bengaluru.
+- 📊 Interested in Data Science, Data Analytics, and Business Intelligence.
+- 💻 Passionate about Software Engineering, Python Development, and Technical Support.
+- 🐍 Skilled in Python, SQL, Pandas, NumPy, and Scikit-learn.
+- 📈 Familiar with Power BI, Tableau, Excel, and data visualization.
+- 🔧 Interested in problem-solving, technical troubleshooting, and software debugging.
+- 🌱 Continuously learning Machine Learning, AWS, Cloud Computing, and Data Engineering.
+- 🤝 Open to entry-level opportunities, collaboration, and professional growth.
 
 ## 🛠️ Technical Skills
 
 **Programming & Development**
-- Python, SQL, Embedded C
+- Python, SQL,Java, Embedded C
 - Object-Oriented Programming Fundamentals
 - Data Structures and Algorithms Fundamentals
 - REST API Fundamentals
